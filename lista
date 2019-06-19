@@ -1,73 +1,73 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET" tvg-logo="http://img.starbr.in/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",ANIMAL PLANET
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1719
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1719
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET HD" tvg-logo="http://img.starbr.in/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1117
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1117
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1084
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1084
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5035
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/5035
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://img.starbr.in/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="Documentarios",DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2410
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/2410
 #EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://img.starbr.in/1552656321_89fdfb75da3147d00d55449f6417a5803a05e53a.png" group-title="Documentarios",DISCOVERY CIVILIZATION
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20805
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/20805
 #EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION FULL HD" tvg-logo="http://img.starbr.in/1552656321_89fdfb75da3147d00d55449f6417a5803a05e53a.png" group-title="Documentarios",DISCOVERY CIVILIZATION FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26026
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/26026
 #EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="http://img.starbr.in/1552656321_89fdfb75da3147d00d55449f6417a5803a05e53a.png" group-title="Documentarios",DISCOVERY CIVILIZATION HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/16005
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/16005
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://img.starbr.in/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Documentarios",DISCOVERY HOME & HEALTH
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2399
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/2399
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://img.starbr.in/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Documentarios",DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1082
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1082
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://img.starbr.in/1552656473_6fc15574a98acbf98a0084420d95164ea0c5f749.png" group-title="Documentarios",DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20806
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/20806
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE FULL HD" tvg-logo="http://img.starbr.in/1552656473_6fc15574a98acbf98a0084420d95164ea0c5f749.png" group-title="Documentarios",DISCOVERY SCIENCE FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26024
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/26024
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://img.starbr.in/1552656473_6fc15574a98acbf98a0084420d95164ea0c5f749.png" group-title="Documentarios",DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/16006
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/16006
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER" tvg-logo="http://img.starbr.in/1516304897_f7974bfa3b9d050bd9fab2b1b3d768aecb457639.png" group-title="Documentarios",DISCOVERY THEATER
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20807
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/20807
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER FULL HD" tvg-logo="http://img.starbr.in/1516304897_f7974bfa3b9d050bd9fab2b1b3d768aecb457639.png" group-title="Documentarios",DISCOVERY THEATER FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26023
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/26023
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://img.starbr.in/1516304897_f7974bfa3b9d050bd9fab2b1b3d768aecb457639.png" group-title="Documentarios",DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2460
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/2460
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1072
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1072
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO FULL HD" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5038
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/5038
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://img.starbr.in/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="Documentarios",DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2411
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/2411
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD" tvg-logo="http://img.starbr.in/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="Documentarios",DISCOVERY WORLD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20808
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/20808
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD FULL HD" tvg-logo="http://img.starbr.in/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="Documentarios",DISCOVERY WORLD FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26022
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/26022
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://img.starbr.in/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="Documentarios",DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2461
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/2461
 #EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://img.starbr.in/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="Documentarios",H2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2486
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/2486
 #EXTINF:-1 tvg-id="H2" tvg-name="H2 FULL HD" tvg-logo="http://img.starbr.in/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="Documentarios",H2 FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/5056
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/5056
 #EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://img.starbr.in/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="Documentarios",H2 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1021
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1021
 #EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="INVESTIGACAO DISCOVERY" tvg-logo="http://img.starbr.in/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.png" group-title="Documentarios",INVESTIGACAO DISCOVERY
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1011
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/1011
 #EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="INVESTIGACAO DISCOVERY HD" tvg-logo="http://img.starbr.in/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.png" group-title="Documentarios",INVESTIGACAO DISCOVERY HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2469
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/2469
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD" tvg-logo="http://img.starbr.in/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.png" group-title="Documentarios",NATGEO WILD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/995
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/995
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD FULL HD" tvg-logo="http://img.starbr.in/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.png" group-title="Documentarios",NATGEO WILD FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18022
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/18022
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD HD" tvg-logo="http://img.starbr.in/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.png" group-title="Documentarios",NATGEO WILD HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/994
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/994
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHICS" tvg-logo="http://img.starbr.in/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="Documentarios",NATIONAL GEOGRAPHICS
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/991
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/991
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHICS FULL HD" tvg-logo="http://img.starbr.in/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="Documentarios",NATIONAL GEOGRAPHICS FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26016
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/26016
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHICS HD" tvg-logo="http://img.starbr.in/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="Documentarios",NATIONAL GEOGRAPHICS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/990
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/990
 #EXTINF:-1 tvg-id="History" tvg-name="THE HISTORY CHANNEL" tvg-logo="http://img.starbr.in/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="Documentarios",THE HISTORY CHANNEL
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/923
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/923
 #EXTINF:-1 tvg-id="History" tvg-name="THE HISTORY CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="Documentarios",THE HISTORY CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/16216
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/16216
 #EXTINF:-1 tvg-id="History" tvg-name="THE HISTORY CHANNEL HD" tvg-logo="http://img.starbr.in/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="Documentarios",THE HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2468
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/cassio123/cassio123/2468
